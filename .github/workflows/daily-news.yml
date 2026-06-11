@@ -1,4 +1,4 @@
-name: Daily News @Mail
+name: Daily News Mail Scheduler
 
 on:
   schedule:
